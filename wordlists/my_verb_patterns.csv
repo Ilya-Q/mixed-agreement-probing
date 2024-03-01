@@ -1,0 +1,7 @@
+pattern,femn,masc
+"{fixed_target} {noun} вчера {mask} решительно.",действовала,действовал
+"{fixed_target} {noun} вчера {mask} текст.",диктовала,диктовал
+"{fixed_target} {noun} вчера {mask} такси.",поймала,поймал
+"{fixed_target} {noun} вчера ничего не {mask}.",знала,знал
+"{fixed_target} {noun} вчера {mask} о случившемся.",знала,знал
+"{fixed_target} {noun} вчера {mask} что-то сказать.",хотела,хотел
