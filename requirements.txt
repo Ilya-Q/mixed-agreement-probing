@@ -1,0 +1,6 @@
+click==8.1.7
+numpy==1.26.4
+pandas==2.2.1
+pymorphy2==0.9.1
+torch==2.1.0
+transformers==4.35.0
